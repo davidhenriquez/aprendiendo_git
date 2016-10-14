@@ -1,4 +1,2 @@
-print
-for i in range(20): 
-    'Hola Mundo'
+print('Hola mundo y chao mundo')
 
